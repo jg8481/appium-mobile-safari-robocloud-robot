@@ -1,0 +1,9 @@
+*.pyc
+*.zip
+/venv
+/output
+.env
+*.env
+*.jpg
+*.png
+*.DS_Store
